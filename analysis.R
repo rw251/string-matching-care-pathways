@@ -18,3 +18,4 @@ pathway <- read.graph("data/sample-pathway.ncol", format="ncol", directed=TRUE)
 
 #plot(pathway)
 
+
