@@ -1,6 +1,6 @@
 library('RUnit')
 
-source('R/distances.R')
+source('R/distance.R')
 
 test.suite <- defineTestSuite("example", dirs = file.path("tests"), testFileRegexp = '^\\d+\\.R')
 
