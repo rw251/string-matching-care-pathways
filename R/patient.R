@@ -17,7 +17,7 @@ patient.pathways <- function (file, dateFormat="%Y/%m/%d %H:%M", sep="\t", heade
   lastDt <- date()
   path <- character()
   
-  for (i in 1:(length(patient.data.sorted[, 1])-1)) {
+  for (i in 1:length(patient.data.sorted[, 1])) {
     event <- pathway.event(as.character(patient.data.sorted[i, "event"]))
     dt <- strptime(patient.data.sorted[i, "dt"], patient.dateFormat)  
     
