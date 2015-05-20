@@ -22,6 +22,11 @@ Source: CRAN
 Version: 1.9.4
 Requires: chron, reshape2
 
+Package: hash
+Source: CRAN
+Version: 2.2.6
+Hash: 7ab8058a422024a2c09c3b518b25b051
+
 Package: igraph
 Source: CRAN
 Version: 0.7.1
