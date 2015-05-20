@@ -1,0 +1,330 @@
+PatientId	DateTime	Event
+1	2012/09/02 13:41	stroke
+1	2012/09/02 14:12	first seen
+1	2012/09/02 14:49	arrive hospital
+1	2012/09/02 15:29	thrombolysis
+1	2012/09/02 15:36	arrive stroke bed
+1	2012/09/02 16:22	discharge stroke unit
+1	2012/09/02 16:31	discharge hospital
+2	2014/06/17 13:41	stroke
+2	2014/06/17 13:50	first seen
+2	2014/06/17 14:03	arrive hospital
+2	2014/06/17 14:13	brain imaging
+2	2014/06/17 14:45	thrombolysis
+2	2014/06/17 15:13	arrive stroke bed
+2	2014/06/17 15:44	follow up scan
+3	2013/12/07 13:41	stroke
+3	2013/12/07 14:28	first seen
+3	2013/12/07 15:03	arrive hospital
+3	2013/12/07 16:02	brain imaging
+3	2013/12/07 16:22	thrombolysis
+3	2013/12/07 16:49	arrive stroke bed
+3	2013/12/07 17:35	follow up scan
+3	2013/12/07 18:21	discharge stroke unit
+3	2013/12/07 18:29	discharge hospital
+4	2012/09/01 13:41	stroke
+4	2012/09/01 14:07	first seen
+4	2012/09/01 14:15	arrive hospital
+4	2012/09/01 14:48	brain imaging
+4	2012/09/01 15:43	arrive stroke bed
+5	2015/05/12 13:41	stroke
+5	2015/05/12 13:56	first seen
+5	2015/05/12 14:32	arrive hospital
+5	2015/05/12 15:26	brain imaging
+5	2015/05/12 15:43	arrive stroke bed
+5	2015/05/12 16:43	thrombolysis
+5	2015/05/12 17:25	follow up scan
+5	2015/05/12 18:36	discharge stroke unit
+5	2015/05/12 19:01	discharge hospital
+6	2015/02/05 13:41	stroke
+6	2015/02/05 14:27	first seen
+6	2015/02/05 15:24	arrive hospital
+6	2015/02/05 16:23	brain imaging
+6	2015/02/05 17:17	arrive stroke bed
+6	2015/02/05 17:53	discharge stroke unit
+6	2015/02/05 17:56	discharge hospital
+7	2012/11/01 13:41	stroke
+7	2012/11/01 13:45	first seen
+7	2012/11/01 14:48	arrive hospital
+7	2012/11/01 15:57	arrive stroke bed
+7	2012/11/01 15:58	brain imaging
+7	2012/11/01 16:06	thrombolysis
+7	2012/11/01 16:31	follow up scan
+7	2012/11/01 17:18	discharge stroke unit
+7	2012/11/01 18:08	discharge hospital
+8	2012/08/27 13:41	stroke
+8	2012/08/27 14:03	first seen
+8	2012/08/27 14:24	arrive hospital
+8	2012/08/27 14:26	arrive stroke bed
+8	2012/08/27 14:28	brain imaging
+8	2012/08/27 14:36	discharge stroke unit
+8	2012/08/27 15:27	discharge hospital
+9	2013/03/14 13:41	stroke
+9	2013/03/14 14:23	first seen
+9	2013/03/14 14:31	arrive hospital
+9	2013/03/14 15:29	arrive stroke bed
+9	2013/03/14 15:47	discharge stroke unit
+9	2013/03/14 16:50	discharge hospital
+10	2014/07/06 13:41	stroke
+10	2014/07/06 13:43	first seen
+10	2014/07/06 14:11	arrive hospital
+10	2014/07/06 14:41	discharge stroke unit
+10	2014/07/06 15:24	discharge hospital
+11	2015/05/05 13:41	stroke
+11	2015/05/05 14:26	arrive hospital
+11	2015/05/05 14:38	first seen
+11	2015/05/05 15:49	thrombolysis
+11	2015/05/05 16:52	brain imaging
+11	2015/05/05 17:17	arrive stroke bed
+11	2015/05/05 17:18	follow up scan
+11	2015/05/05 17:27	discharge stroke unit
+11	2015/05/05 17:56	discharge hospital
+12	2013/06/30 13:41	stroke
+12	2013/06/30 14:29	arrive hospital
+12	2013/06/30 15:02	first seen
+12	2013/06/30 15:47	thrombolysis
+12	2013/06/30 16:20	arrive stroke bed
+12	2013/06/30 17:28	follow up scan
+12	2013/06/30 17:32	discharge stroke unit
+12	2013/06/30 18:01	discharge hospital
+13	2015/02/26 13:41	stroke
+13	2015/02/26 14:11	arrive hospital
+13	2015/02/26 14:46	first seen
+13	2015/02/26 14:59	brain imaging
+13	2015/02/26 15:57	thrombolysis
+13	2015/02/26 16:22	arrive stroke bed
+13	2015/02/26 16:51	follow up scan
+14	2012/12/05 13:41	stroke
+14	2012/12/05 14:47	arrive hospital
+14	2012/12/05 15:30	first seen
+14	2012/12/05 15:40	brain imaging
+14	2012/12/05 16:07	thrombolysis
+14	2012/12/05 16:32	arrive stroke bed
+14	2012/12/05 16:52	follow up scan
+14	2012/12/05 17:50	discharge stroke unit
+14	2012/12/05 18:19	discharge hospital
+15	2014/09/15 13:41	stroke
+15	2014/09/15 13:58	arrive hospital
+15	2014/09/15 14:30	first seen
+15	2014/09/15 15:12	brain imaging
+15	2014/09/15 16:21	thrombolysis
+15	2014/09/15 16:27	arrive stroke bed
+15	2014/09/15 16:56	discharge stroke unit
+15	2014/09/15 17:44	discharge hospital
+16	2015/03/25 13:41	stroke
+16	2015/03/25 14:26	arrive hospital
+16	2015/03/25 15:04	first seen
+16	2015/03/25 15:51	brain imaging
+16	2015/03/25 16:27	arrive stroke bed
+17	2013/03/11 13:41	stroke
+17	2013/03/11 14:03	arrive hospital
+17	2013/03/11 15:06	first seen
+17	2013/03/11 15:46	brain imaging
+17	2013/03/11 16:16	arrive stroke bed
+17	2013/03/11 16:56	thrombolysis
+17	2013/03/11 18:07	follow up scan
+17	2013/03/11 18:45	discharge stroke unit
+17	2013/03/11 19:42	discharge hospital
+18	2014/02/22 13:41	stroke
+18	2014/02/22 14:51	arrive hospital
+18	2014/02/22 15:13	first seen
+18	2014/02/22 16:07	brain imaging
+18	2014/02/22 16:44	arrive stroke bed
+18	2014/02/22 16:49	discharge stroke unit
+19	2013/01/28 13:41	stroke
+19	2013/01/28 14:13	arrive hospital
+19	2013/01/28 15:21	first seen
+19	2013/01/28 16:20	brain imaging
+19	2013/01/28 16:42	arrive stroke bed
+19	2013/01/28 17:45	discharge stroke unit
+19	2013/01/28 18:30	discharge hospital
+20	2014/12/26 13:41	stroke
+20	2014/12/26 14:02	arrive hospital
+20	2014/12/26 14:57	first seen
+20	2014/12/26 15:40	arrive stroke bed
+21	2013/04/28 13:41	stroke
+21	2013/04/28 14:07	arrive hospital
+21	2013/04/28 14:08	first seen
+21	2013/04/28 15:20	arrive stroke bed
+21	2013/04/28 15:27	discharge hospital
+21	2013/04/28 15:56	discharge stroke unit
+22	2013/10/06 13:41	stroke
+22	2013/10/06 14:40	arrive hospital
+22	2013/10/06 15:00	first seen
+22	2013/10/06 15:09	arrive stroke bed
+22	2013/10/06 16:04	brain imaging
+23	2013/02/28 13:41	stroke
+23	2013/02/28 14:19	arrive hospital
+23	2013/02/28 15:18	first seen
+23	2013/02/28 16:00	arrive stroke bed
+23	2013/02/28 17:02	brain imaging
+23	2013/02/28 18:03	thrombolysis
+23	2013/02/28 18:08	follow up scan
+23	2013/02/28 19:11	discharge stroke unit
+23	2013/02/28 20:07	discharge hospital
+24	2013/11/01 13:41	stroke
+24	2013/11/01 14:18	arrive hospital
+24	2013/11/01 14:48	first seen
+24	2013/11/01 15:17	arrive stroke bed
+24	2013/11/01 15:25	brain imaging
+24	2013/11/01 15:32	discharge stroke unit
+24	2013/11/01 16:30	discharge hospital
+25	2014/09/03 13:41	stroke
+25	2014/09/03 14:33	arrive hospital
+25	2014/09/03 14:55	first seen
+25	2014/09/03 15:04	arrive stroke bed
+25	2014/09/03 15:47	discharge stroke unit
+25	2014/09/03 16:57	discharge hospital
+26	2014/11/29 13:41	stroke
+26	2014/11/29 14:36	arrive hospital
+26	2014/11/29 15:41	first seen
+26	2014/11/29 16:47	discharge stroke unit
+26	2014/11/29 17:36	discharge hospital
+27	2013/01/30 13:41	stroke
+27	2013/01/30 14:25	arrive hospital
+27	2013/01/30 14:55	brain imaging
+27	2013/01/30 15:10	first seen
+27	2013/01/30 16:15	thrombolysis
+27	2013/01/30 16:29	arrive stroke bed
+27	2013/01/30 17:34	follow up scan
+27	2013/01/30 18:15	discharge stroke unit
+27	2013/01/30 18:36	discharge hospital
+28	2014/01/12 13:41	stroke
+28	2014/01/12 13:56	arrive hospital
+28	2014/01/12 14:38	brain imaging
+28	2014/01/12 15:41	first seen
+28	2014/01/12 16:07	arrive stroke bed
+28	2014/01/12 16:28	thrombolysis
+28	2014/01/12 16:40	discharge stroke unit
+28	2014/01/12 17:11	discharge hospital
+29	2015/02/23 13:41	stroke
+29	2015/02/23 14:34	arrive hospital
+29	2015/02/23 15:35	brain imaging
+29	2015/02/23 16:18	first seen
+29	2015/02/23 16:36	arrive stroke bed
+29	2015/02/23 16:52	discharge stroke unit
+29	2015/02/23 17:19	discharge hospital
+30	2013/09/08 13:41	stroke
+30	2013/09/08 13:49	arrive hospital
+30	2013/09/08 15:00	brain imaging
+30	2013/09/08 15:01	arrive stroke bed
+30	2013/09/08 15:53	first seen
+30	2013/09/08 16:12	thrombolysis
+30	2013/09/08 16:50	follow up scan
+30	2013/09/08 17:01	discharge stroke unit
+30	2013/09/08 17:22	discharge hospital
+31	2014/10/28 13:41	stroke
+31	2014/10/28 14:05	arrive hospital
+31	2014/10/28 14:15	brain imaging
+31	2014/10/28 14:16	arrive stroke bed
+31	2014/10/28 14:26	first seen
+31	2014/10/28 15:18	discharge stroke unit
+31	2014/10/28 15:50	discharge hospital
+32	2015/03/21 13:41	stroke
+32	2015/03/21 14:13	arrive hospital
+32	2015/03/21 14:17	arrive stroke bed
+32	2015/03/21 15:21	first seen
+32	2015/03/21 15:39	brain imaging
+32	2015/03/21 16:03	thrombolysis
+32	2015/03/21 17:11	follow up scan
+32	2015/03/21 17:53	discharge stroke unit
+32	2015/03/21 18:41	discharge hospital
+33	2014/11/01 13:41	stroke
+33	2014/11/01 14:13	arrive hospital
+33	2014/11/01 15:06	arrive stroke bed
+33	2014/11/01 15:31	first seen
+33	2014/11/01 16:08	brain imaging
+33	2014/11/01 16:51	discharge stroke unit
+33	2014/11/01 17:45	discharge hospital
+34	2014/01/30 13:41	stroke
+34	2014/01/30 14:51	arrive hospital
+34	2014/01/30 15:21	arrive stroke bed
+34	2014/01/30 15:50	first seen
+34	2014/01/30 16:03	discharge stroke unit
+34	2014/01/30 16:40	discharge hospital
+35	2013/02/27 13:41	stroke
+35	2013/02/27 14:34	arrive hospital
+35	2013/02/27 15:38	arrive stroke bed
+35	2013/02/27 16:48	brain imaging
+35	2013/02/27 17:10	first seen
+35	2013/02/27 17:49	thrombolysis
+35	2013/02/27 18:30	follow up scan
+35	2013/02/27 19:00	discharge stroke unit
+35	2013/02/27 19:03	discharge hospital
+36	2014/03/25 13:41	stroke
+36	2014/03/25 14:30	arrive hospital
+36	2014/03/25 14:55	arrive stroke bed
+36	2014/03/25 15:22	brain imaging
+36	2014/03/25 16:34	first seen
+36	2014/03/25 17:41	discharge stroke unit
+36	2014/03/25 18:44	discharge hospital
+37	2014/02/11 13:41	arrive hospital
+37	2014/02/11 13:59	first seen
+37	2014/02/11 14:14	arrive stroke bed
+37	2014/02/11 14:47	brain imaging
+37	2014/02/11 15:54	stroke
+37	2014/02/11 16:06	thrombolysis
+37	2014/02/11 17:16	follow up scan
+37	2014/02/11 17:41	discharge stroke unit
+37	2014/02/11 18:51	discharge hospital
+38	2014/11/29 13:41	arrive hospital
+38	2014/11/29 14:11	first seen
+38	2014/11/29 14:14	arrive stroke bed
+38	2014/11/29 15:03	stroke
+38	2014/11/29 16:12	brain imaging
+38	2014/11/29 17:17	thrombolysis
+38	2014/11/29 17:23	follow up scan
+38	2014/11/29 17:24	discharge stroke unit
+38	2014/11/29 18:07	discharge hospital
+39	2015/02/11 13:41	arrive hospital
+39	2015/02/11 13:54	brain imaging
+39	2015/02/11 14:38	stroke
+39	2015/02/11 14:46	first seen
+39	2015/02/11 15:01	arrive stroke bed
+39	2015/02/11 15:55	discharge stroke unit
+39	2015/02/11 16:19	discharge hospital
+40	2015/04/23 13:41	arrive hospital
+40	2015/04/23 14:27	brain imaging
+40	2015/04/23 14:40	stroke
+40	2015/04/23 15:36	arrive stroke bed
+40	2015/04/23 16:15	first seen
+40	2015/04/23 16:52	discharge stroke unit
+40	2015/04/23 17:29	discharge hospital
+41	2014/11/27 13:41	arrive hospital
+41	2014/11/27 14:46	stroke
+41	2014/11/27 15:42	first seen
+41	2014/11/27 16:08	brain imaging
+41	2014/11/27 16:54	arrive stroke bed
+41	2014/11/27 17:35	discharge stroke unit
+41	2014/11/27 18:25	discharge hospital
+42	2015/03/29 13:41	arrive hospital
+42	2015/03/29 13:47	stroke
+42	2015/03/29 14:20	first seen
+42	2015/03/29 15:11	arrive stroke bed
+42	2015/03/29 15:45	brain imaging
+42	2015/03/29 16:42	discharge stroke unit
+42	2015/03/29 17:46	discharge hospital
+43	2013/06/13 13:41	arrive hospital
+43	2013/06/13 14:32	stroke
+43	2013/06/13 15:42	first seen
+43	2013/06/13 16:02	arrive stroke bed
+43	2013/06/13 16:59	discharge stroke unit
+43	2013/06/13 17:20	discharge hospital
+44	2015/03/31 13:41	arrive hospital
+44	2015/03/31 14:28	stroke
+44	2015/03/31 15:33	brain imaging
+44	2015/03/31 16:36	first seen
+44	2015/03/31 16:47	arrive stroke bed
+45	2013/07/18 13:41	arrive hospital
+45	2013/07/18 14:02	stroke
+45	2013/07/18 15:11	brain imaging
+45	2013/07/18 16:15	first seen
+45	2013/07/18 16:53	arrive stroke bed
+45	2013/07/18 17:23	discharge stroke unit
+45	2013/07/18 17:57	discharge hospital
+46	2015/03/05 13:41	arrive hospital
+46	2015/03/05 14:15	stroke
+46	2015/03/05 14:19	arrive stroke bed
+46	2015/03/05 14:55	first seen
+46	2015/03/05 15:47	discharge stroke unit
+46	2015/03/05 16:40	discharge hospital
