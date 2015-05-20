@@ -17,11 +17,11 @@ patient.pathways <- function (file, dateFormat="%Y/%m/%d %H:%M", sep="\t", heade
   lastDt <- date()
   path <- character()
   
-  for(i in 1:(length(patient.data.sorted[, 1])-1)) {
+  for (i in 1:(length(patient.data.sorted[, 1])-1)) {
     event <- pathway.event(as.character(patient.data.sorted[i, "event"]))
     dt <- strptime(patient.data.sorted[i, "dt"], patient.dateFormat)  
     
-    if(patient.data.sorted[i, "patid"] == patid){
+    if (patient.data.sorted[i, "patid"] == patid){
       path <- c(path, event)
       #time diff
       diff <- as.double(difftime(dt, lastDt, units = "mins"))
@@ -36,9 +36,9 @@ patient.pathways <- function (file, dateFormat="%Y/%m/%d %H:%M", sep="\t", heade
     lastDt <- dt  
   }
   
-  if(length(path) > 0){
+  if (length(path) > 0){
     patient.patients[patid] <- paste(path, collapse="")
   }
   
-  return( patient.patients )
+  return(patient.patients)
 }

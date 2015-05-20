@@ -18,25 +18,8 @@ patient.pathways(config.patient.filename, dateFormat=config.patient.date.format)
 
 #load pathway
 pathway <- pathway.load(config.pathway.filename, format=config.pathway.format)
+plot(pathway)
 
-sv <- pathway.startVertices()
+pathway.allPaths()
 
-for(i in 1:length(sv)){
-  
-}
-#plot(pathway)
 
-#Get all paths
-# assume no recursion
-
-#select start node
-
-#flag as visited
-
-#visit each
-
-#identify start nodes
-
-# add two nodes
-# add 1 to indegree of second
-#loop through nodes and return those with indeg of 0
