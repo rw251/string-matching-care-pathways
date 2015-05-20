@@ -9,7 +9,10 @@ metricLevenshteinDistance <- function(str1, str2){
   return(2 * lv / (nchar(str1) + nchar(str2) + lv))
 }
 
-mystringdist <- function(str1, str2, method="osa") {
+#distance.stringdist("cat","batter",method="lv")
+#distance.stringdist("cat","batter",method="nlv")
+#distance.stringdist("cat","batter",method="mlv")
+distances.stringdist <- function(str1, str2, method="osa") {
   if (method == "nlv") {
     return(normalisedLevenshteinDistance(str1, str2))
   } else if (method == "mlv") {
